@@ -8,7 +8,7 @@ header {
 
 /* Estilos para el menú */
 #menu {
-    background-image: url(/img/fondo1.jpg);
+    background-image: url(img/fondo1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
